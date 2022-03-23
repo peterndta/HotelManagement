@@ -10,30 +10,33 @@
 ## UI
 ### Login
 
-![This is an image](https://github.com/peterndta/Univ_Semester-4_Java-web-project/blob/main/ScreenShot/Login.jpg)
+![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/login.jpg)
 
-### Guest
-  *Product List Screen*
-![This is an image](https://github.com/peterndta/Univ_Semester-4_Java-web-project/blob/main/ScreenShot/Guest.jpg)
-![This is an image](https://github.com/peterndta/Univ_Semester-4_Java-web-project/blob/main/ScreenShot/body2.jpg)
-      
-### User
-  *Product List Screen*
-![This is an image](https://github.com/peterndta/Univ_Semester-4_Java-web-project/blob/main/ScreenShot/user.jpg)
-![This is an image](https://github.com/peterndta/Univ_Semester-4_Java-web-project/blob/main/ScreenShot/body2.jpg)
+### Home
 
-   *Shopping Cart Screen*
-![This is an image](https://github.com/peterndta/Univ_Semester-4_Java-web-project/blob/main/ScreenShot/cart.jpg)
+![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Home.jpg)
 
       
-### Admin
-   *Product List Screen* 
-![This is an image](https://github.com/peterndta/Univ_Semester-4_Java-web-project/blob/main/ScreenShot/Admin.jpg)
-![This is an image](https://github.com/peterndta/Univ_Semester-4_Java-web-project/blob/main/ScreenShot/body.jpg)
+### Room Management
+ 
+![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Rooms.jpg)
+   *Change room type*
+![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Room_Type.jpg)
 
-   *Add Product Screen*   
-![This is an image](https://github.com/peterndta/Univ_Semester-4_Java-web-project/blob/main/ScreenShot/add.jpg)
+   *Service*
+![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Service.jpg)
 
-   *Update Product Screen*
-![This is an image](https://github.com/peterndta/Univ_Semester-4_Java-web-project/blob/main/ScreenShot/update_product.jpg)
+      
+### Employee Management
+   
+![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Employee.jpg)
+  *Employee Info*
+![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Employee_Info.jpg)
 
+### Customer Management
+![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Customer.jpg)
+
+### Room Details
+![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Room_detail.jpg)
+
+#### Please view the documents for more information regarding this project
