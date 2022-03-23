@@ -1,5 +1,5 @@
 # Welcome to my Windows Forms Project
-## This project is about building a software to support the management in the hotel in order to help the manager to manage his hotel effectively. . The project will work best on `Desktop`
+## This project is about building a software to support the management in the hotel in order to help the manager to manage his hotel effectively. The project will work best on `Desktop`
 ### About this project:
 * Using 3-layers architecture 
 * Using MPV (Model-Presenter-View) pattern
