@@ -20,10 +20,11 @@
 ### Room Management
  
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Rooms.jpg)
-   *Change room type*
+
+#### Change room type
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Room_Type.jpg)
 
-   *Service*
+#### Service
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Service.jpg)
 
       
