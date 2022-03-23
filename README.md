@@ -40,4 +40,4 @@
 ### Room Details
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Room_detail.jpg)
 
-# Please view the documents for more information regarding this project
+## Please view the documents for more information regarding this project
