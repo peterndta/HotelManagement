@@ -8,16 +8,16 @@
 * Using ADO.NET in order to connect to the database
 
 ## UI
-### Login
+### - Login
 
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/login.jpg)
 
-### Home
+### - Home
 
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Home.jpg)
 
       
-### Room Management
+### - Room Management
  
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Rooms.jpg)
 
@@ -28,16 +28,16 @@
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Service.jpg)
 
       
-### Employee Management
+### - Employee Management
    
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Employee.jpg)
   *Employee Info*
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Employee_Info.jpg)
 
-### Customer Management
+### - Customer Management
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Customer.jpg)
 
-### Room Details
+### - Room Details
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Room_detail.jpg)
 
 ## Please view the documents for more information regarding this project
