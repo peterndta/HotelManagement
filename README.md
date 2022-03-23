@@ -42,4 +42,4 @@
 ### - Room Details
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Room_detail.jpg)
 
-## For more information regarding this project, view the documents "Group-Project_Basic-Cross-Platform-Application-Programming-with-.NET"
+## For more information regarding this project, view the documents *Group-Project_Basic-Cross-Platform-Application-Programming-with-.NET*
