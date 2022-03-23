@@ -7,6 +7,8 @@
 * Using MS SQL for database management
 * Using ADO.NET in order to connect to the database
 
+© peterndta
+
 ## UI
 ### - Login
 
