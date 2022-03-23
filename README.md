@@ -33,7 +33,7 @@
 ### - Employee Management
    
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Employee.jpg)
-  *Employee Info*
+#### Employee Info
 ![This is an image](https://github.com/peterndta/HotelManagement/blob/main/ScreenShot/Employee_Info.jpg)
 
 ### - Customer Management
